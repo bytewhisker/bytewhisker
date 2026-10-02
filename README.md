@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/bytewhisker/grandpa"><img src="https://img.shields.io/badge/AI%20Architecture-Grandpa%20Engine-f59e0b?style=flat-square&logo=node.js&logoColor=white" alt="Grandpa" /></a>
   <a href="https://aescripts.com/authors/md-mahadi"><img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=flat-square&logo=adobe&logoColor=white" alt="aescripts Author" /></a>
   <a href="https://github.com/bytewhisker/large-file-finder"><img src="https://img.shields.io/badge/Desktop%20Utility-Large%20File%20Finder-1f6feb?style=flat-square&logo=windows&logoColor=white" alt="Large File Finder" /></a>
   <a href="https://github.com/bytewhisker/zerog-motion"><img src="https://img.shields.io/badge/Open%20Source-ZeroG%20Motion-8957e5?style=flat-square&logo=npm&logoColor=white" alt="ZeroG Motion" /></a>
@@ -85,6 +86,8 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 #### 2. Desktop Utilities and Open Source Systems
 
+* **[Grandpa](https://github.com/bytewhisker/grandpa)**  
+  Battle-tested, zero-bloat architecture engine and CLI scanner for AI coding agents. Enforces standard library usage, eliminates dependency slop, and provides an active pre-commit guard.
 * **[Large File Finder](https://github.com/bytewhisker/large-file-finder)**  
   High-speed storage analysis software engineered in Python to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
 * **[ZeroG Motion](https://github.com/bytewhisker/zerog-motion)**  
