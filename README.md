@@ -20,14 +20,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Status-Shipping%20Production%20Tools-10B981?style=flat-square&logo=git&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Active%20Month-October%202026%20⚡-06B6D4?style=flat-square" alt="Active Month" />
-  <img src="https://img.shields.io/badge/Latest%20Release-Large%20File%20Finder%20v1.0.0-8B5CF6?style=flat-square" alt="Latest Release" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Tools-10B981?style=flat-square&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Timeline-October%202026-06B6D4?style=flat-square" alt="Timeline" />
+  <img src="https://img.shields.io/badge/Release-Large%20File%20Finder%20v1.0.0-8B5CF6?style=flat-square" alt="Latest Release" />
 </p>
 
 ---
 
-### 📈 Career Trajectory & System Velocity (2014 — Present)
+### Career Trajectory and System Velocity (2014 — Present)
 
 <p align="center">
   <img src="assets/growth-chart.svg" width="100%" alt="Career Growth Trajectory" />
@@ -37,22 +37,22 @@
   <tr>
     <td width="25%" valign="top">
       <strong>2014 — 2017</strong><br/>
-      <small>🌱 <strong>The Genesis Phase</strong></small><br/>
+      <small><strong>The Genesis Phase</strong></small><br/>
       First lines of C++, ExtendScript, and system scripts. Experimentation with creative pipeline automations.
     </td>
     <td width="25%" valign="top">
       <strong>2018 — 2020</strong><br/>
-      <small>⚙️ <strong>The Hard Grind</strong></small><br/>
+      <small><strong>The Hard Grind</strong></small><br/>
       High-stress deep pipeline engineering. Delivering confidential government software and surviving stack shifts.
     </td>
     <td width="25%" valign="top">
       <strong>2021 — 2023</strong><br/>
-      <small>🚀 <strong>Commercial Breakout</strong></small><br/>
+      <small><strong>Commercial Breakout</strong></small><br/>
       Founded Project Pro. Launched <strong>Counter Pro</strong> on aescripts.com, eliminating manual expressions and saving 80% time.
     </td>
     <td width="25%" valign="top">
       <strong>2024 — 2026</strong><br/>
-      <small>⚡ <strong>Supercycle (ATH)</strong></small><br/>
+      <small><strong>Supercycle (ATH)</strong></small><br/>
       Shipping <strong>FX Launcher Pro</strong>, <strong>ZeroG Motion</strong> (&lt;2.5KB WAAPI), <strong>Large File Finder</strong>, and <strong>FreeFlow</strong>.
     </td>
   </tr>
@@ -60,22 +60,22 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### Executive Summary
 
 I am a **Software Engineer and Creative Systems Architect** with **11+ years of experience** developing specialized software, automation engines, and high-performance desktop and web applications.
 
-* 🎬 **Commercial Tooling & Impact:** Founder of **Project Pro**. Author of commercial software on [aescripts.com](https://aescripts.com/authors/md-mahadi), engineering plugins that **reduce manual production and animation time by up to 80%** for video editors and motion designers worldwide.
-* ⚡ **Engineering Principles:** Ruthless performance, minimal memory footprints, zero-dependency architectures, and native platform capabilities over bloated abstractions.
-* 🛠️ **Systems Mastery:** Deep expertise in C++, Python, JavaScript/TypeScript, Adobe ExtendScript, CEP, and UXP, coupled with modern web runtimes (React, Next.js, Node.js) and native desktop software.
-* 🔒 **Enterprise & High-Trust Delivery:** Proven background developing confidential software for enterprise and government clients with strict reliability and security requirements.
+* **Commercial Tooling and Impact:** Founder of **Project Pro**. Author of commercial software on [aescripts.com](https://aescripts.com/authors/md-mahadi), engineering plugins that **reduce manual production and animation time by up to 80%** for video editors and motion designers worldwide.
+* **Engineering Principles:** Ruthless performance, minimal memory footprints, zero-dependency architectures, and native platform capabilities over bloated abstractions.
+* **Systems Mastery:** Deep expertise in C++, Python, JavaScript/TypeScript, Adobe ExtendScript, CEP, and UXP, coupled with modern web runtimes (React, Next.js, Node.js) and native desktop software.
+* **Enterprise and High-Trust Delivery:** Proven background developing confidential software for enterprise and government clients with strict reliability and security requirements.
 
 ---
 
-### 🚀 Featured Works & Engineering Showcase
+### Featured Works and Engineering Showcase
 
-#### 1. 🎬 Adobe Creative Cloud Ecosystem (Published on [aescripts.com](https://aescripts.com/authors/md-mahadi))
+#### 1. Adobe Creative Cloud Ecosystem (Published on [aescripts.com](https://aescripts.com/authors/md-mahadi))
 
-| Product | Platform | Core Architecture & Highlights |
+| Product | Platform | Core Architecture and Highlights |
 | :--- | :--- | :--- |
 | **[Counter Pro](https://aescripts.com/counter-pro)** | **After Effects** | High-performance dynamic numeric and data animation engine. Replaces tedious manual expressions, saving **up to 80% of production time**. Features a custom localization subsystem for multi-language numeric generation. |
 | **[FX Launcher Pro](https://aescripts.com/authors/md-mahadi)** | **Premiere Pro** | Keyboard-first command palette and spotlight search. Enables editors to apply effects, presets, and transitions instantly with fuzzy matching, bypassing sluggish UI panels. |
@@ -83,7 +83,7 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 ---
 
-#### 2. 🖥️ Desktop Utilities & Open Source Systems
+#### 2. Desktop Utilities and Open Source Systems
 
 * **[Large File Finder](https://github.com/bytewhisker/large-file-finder)**  
   High-speed storage analysis software engineered in Python to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
@@ -92,7 +92,7 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 ---
 
-#### 3. ☁️ SaaS Platforms & Enterprise Solutions
+#### 3. SaaS Platforms and Enterprise Solutions
 
 * **[FreeFlow](https://github.com/bytewhisker/freeflow)**  
   A modern, modular CRM and business operations engine designed for agencies and freelancers. Features pipeline tracking, team collaboration, automated invoice generation, and client portals.
@@ -101,7 +101,7 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 ---
 
-### 🧰 Technical Arsenal (Direct from 11+ Years in Production)
+### Technical Arsenal (Direct from 11+ Years in Production)
 
 <table>
   <tr>
@@ -111,19 +111,19 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Creative SDKs & Systems</strong></td>
+    <td valign="top"><strong>Creative SDKs and Systems</strong></td>
     <td>
       <code>Adobe CEP</code> &middot; <code>UXP</code> &middot; <code>Web Animations API (WAAPI)</code> &middot; <code>Tkinter</code> &middot; <code>Electron</code> &middot; <code>Desktop OS APIs</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Full-Stack & Web</strong></td>
+    <td valign="top"><strong>Full-Stack and Web</strong></td>
     <td>
       <code>React</code> &middot; <code>Next.js</code> &middot; <code>Node.js</code> &middot; <code>FastAPI</code> &middot; <code>Express</code> &middot; <code>Tailwind CSS</code> &middot; <code>WordPress</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Data & Infrastructure</strong></td>
+    <td valign="top"><strong>Data and Infrastructure</strong></td>
     <td>
       <code>PostgreSQL</code> &middot; <code>MongoDB</code> &middot; <code>Redis</code> &middot; <code>Docker</code> &middot; <code>Git / GitHub</code> &middot; <code>Linux Shell</code>
     </td>
@@ -138,7 +138,7 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 ---
 
-### 📊 GitHub Engineering Telemetry
+### GitHub Engineering Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytewhisker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" width="48%" />
@@ -147,10 +147,10 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 
 ---
 
-### 📬 Connect & Commercial Inquiries
+### Connect and Commercial Inquiries
 
-* 🛒 **Store Catalog:** [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi)
-* 💼 **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
+* **Store Catalog:** [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi)
+* **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" height="30" style="opacity: 0.2;" />
