@@ -1,80 +1,110 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00F260,0575E6&height=220&section=header&text=BYTEWHISKER&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Turning%20Caffeine%20Into%20Insane%20Code%20Since%202018&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="ByteWhisker Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=200&section=header&text=MD%20MAHADI&fontSize=44&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Adobe%20Plugin%20Architect%20%E2%80%A2%20SaaS%20Builder&descSize=16&descAlignY=66" width="100%" alt="Md Mahadi Header" />
 </p>
 
-<h2 align="center">
-  <a href="https://github.com/bytewhisker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Architect+%26+Sigma+Hacker;%E2%9A%A1+Refuses+to+install+500MB+of+node_modules;%F0%9F%94%A5+I+don't+write+bugs%2C+I+write+surprise+features;%F0%9F%A7%A0+The+best+code+is+the+code+you+never+wrote;%F0%9F%9A%80+git+commit+-m+%22it+works+on+my+machine%22" alt="Typing SVG" />
+<h3 align="center">
+  <a href="https://aescripts.com/authors/md-mahadi">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Verified+Author+on+aescripts.com;Creator+of+FX+Launcher+Pro+for+Adobe+Premiere+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard+for+After+Effects;Author+of+ZeroG+Motion+(%3C2.5KB+Native+WAAPI+Physics);Architecting+High-Performance+Desktop+Software+%26+SaaS" alt="Typing Showcase" />
   </a>
-</h2>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bytewhisker&label=Profile%20Views&color=00ff66&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Caffeine%20Level-9000%25-ff4500?style=flat-square&logo=coffeescript" alt="Caffeine" />
-  <img src="https://img.shields.io/badge/Bugs%20Fixed-404%20Not%20Found-blueviolet?style=flat-square" alt="Bugs" />
-  <img src="https://img.shields.io/badge/Production%20Crashes-0%20(Allegedly)-success?style=flat-square" alt="Production" />
+  <a href="https://aescripts.com/authors/md-mahadi">
+    <img src="https://img.shields.io/badge/aescripts.com-Verified%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" />
+  </a>
+  <img src="https://img.shields.io/badge/Creative%20SDK-CEP%20%7C%20ExtendScript%20%7C%20UXP-blue?style=for-the-badge&logo=adobe" alt="Creative SDK" />
+  <img src="https://img.shields.io/badge/Full--Stack-Node%20%7C%20Next.js%20%7C%20Python-2ea44f?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20%26%20Zero%20Bloat-purple?style=for-the-badge" alt="Focus" />
 </p>
 
 ---
 
-### 💀 Who Am I?
+### 👨‍💻 Executive Summary
 
-> *"Just a noob who stumbled upon some code in 2018, and somehow, it turned into something crazy."*
+I am a **Software Engineer and Creative Tools Architect** specializing in building high-performance extensions for the **Adobe Creative Cloud ecosystem**, native desktop utilities, and full-stack SaaS platforms.
 
-* ⚡ **Level:** Full-Stack Builder & Open-Sourcerer.
-* 🧠 **Philosophy:** Why write 50 lines when 1 native line does the job? (Proud follower of Occam's Razor & Ponytail minimalism).
-* 🛠️ **Superpower:** Turning caffeine, terminal commands, and deep rabbit holes into high-speed production apps.
-* 🚀 **Current Quest:** Crafting next-gen developer tools, AI agent workflows, and ultra-lean full-stack apps.
-* 🛡️ **Rule #1:** Never deploy on Friday at 5 PM. (Unless feeling dangerous).
+* 🎬 **Commercial Tooling:** Author on [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi), delivering workflow-critical plugins used by video editors and motion designers globally.
+* ⚡ **Engineering Principles:** Ruthless performance, minimal memory footprints, zero-dependency architectures, and native platform capabilities over bloated abstractions.
+* 🛠️ **Systems Mastery:** Deep expertise in Adobe CEP, ExtendScript, UXP, native web technologies (WAAPI), cross-platform desktop software, and scalable cloud applications.
 
 ---
 
-### 🧰 The Sigma Arsenal
+### 🚀 Featured Works & Engineering Showcase
+
+#### 1. 🎬 Adobe Creative Cloud Ecosystem (Published on [aescripts.com](https://aescripts.com/authors/md-mahadi))
+
+| Product | Platform | Core Architecture & Highlights |
+| :--- | :--- | :--- |
+| **[FX Launcher Pro](https://aescripts.com/authors/md-mahadi)** | **Premiere Pro** | High-speed, keyboard-first command palette and spotlight search. Enables editors to apply effects, presets, and transitions instantly with fuzzy matching, bypassing sluggish UI panels. |
+| **[Counter Pro 2](https://aescripts.com/authors/md-mahadi)** | **After Effects** | Advanced dynamic number counter and data animation engine. Handles complex numeric formatting, currency conversions, decimal controls, and easing curves natively. |
+| **[Render Guard](https://aescripts.com/authors/md-mahadi)** | **After Effects** | Automated background render monitor. Provides intelligent post-render system management (sleep, hibernation, auto-shutdown), stall detection, and error mitigation for long export queues. |
+
+---
+
+#### 2. 🖥️ Desktop Utilities & Open Source Systems
+
+* **[Large File Finder](https://github.com/bytewhisker)**  
+  High-speed storage analysis software engineered to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
+* **[ZeroG Motion](https://github.com/bytewhisker/zerog-motion)**  
+  Weightless physics-based animation library for modern web interfaces. **< 2.5KB gzipped**, powered by the native Web Animations API (WAAPI), with **zero external dependencies**. Engineered specifically for ultra-fast frontends and lean runtimes.
+
+---
+
+#### 3. ☁️ SaaS Platforms & Enterprise Solutions
+
+* **[KMG SaaS / FreeFlow](https://github.com/bytewhisker/kmgsaas)**  
+  A modern, modular CRM and business operations engine designed for agencies and freelancers. Features pipeline tracking, team collaboration, automated invoice generation, and client portals.
+* **High-Throughput Content Engines**  
+  Scalable text transformation tools and AI-assisted workflow pipelines focusing on low-latency inference, prompt optimization, and clean data processing.
+
+---
+
+### 🧰 Technical Arsenal
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Creative SDKs & Desktop</strong></td>
+    <td>
+      <code>Adobe CEP</code> &middot; <code>ExtendScript</code> &middot; <code>UXP</code> &middot; <code>Electron</code> &middot; <code>C++</code> &middot; <code>WAAPI</code> &middot; <code>Desktop OS APIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Full-Stack & Languages</strong></td>
+    <td>
+      <code>TypeScript</code> &middot; <code>JavaScript (ESNext)</code> &middot; <code>Python</code> &middot; <code>Node.js</code> &middot; <code>React</code> &middot; <code>Next.js</code> &middot; <code>FastAPI</code> &middot; <code>Express</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Styling & Frontend Systems</strong></td>
+    <td>
+      <code>Tailwind CSS</code> &middot; <code>Modern CSS3</code> &middot; <code>Native Web Components</code> &middot; <code>SVG Graphics</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Data & Infrastructure</strong></td>
+    <td>
+      <code>PostgreSQL</code> &middot; <code>MongoDB</code> &middot; <code>Redis</code> &middot; <code>Docker</code> &middot; <code>Git</code> &middot; <code>Linux Shell</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Engineering Telemetry
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br/>
-  <!-- Frameworks & Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <br/>
-  <!-- Databases & DevOps -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytewhisker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewhisker&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📊 Hacker Telemetry & Live Stats
+### 📬 Connect & Commercial Inquiries
+
+* 🛒 **Store Catalog:** [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi)
+* 💼 **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
+* ✉️ **Direct Email:** [officialmdmahadi@gmail.com](mailto:officialmdmahadi@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytewhisker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=0575E6&text_color=c9d1d9" alt="ByteWhisker's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytewhisker&theme=tokyonight&hide_border=true&background=0D1117&ring=00F260&fire=00F260&currStreakLabel=00F260&stroke=00F260" alt="ByteWhisker's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewhisker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F260&text_color=c9d1d9" alt="Top Languages" width="55%" />
-</p>
-
----
-
-### 💡 Daily Dev Reality Check
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&bg_color=0D1117&hide_border=true" alt="Daily Dev Joke" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0575E6,00F260&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=40&section=footer" width="100%" />
 </p>
