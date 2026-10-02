@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,161b22,1f6feb,58a6ff&height=220&section=header&text=BYTEWHISKER&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Creative%20Tools%20Architect%20%E2%80%A2%20Systems%20%26%20SaaS%20Engineer&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="ByteWhisker Header" />
+  <img src="assets/banner.svg" width="100%" alt="ByteWhisker Header" />
 </p>
 
 <h3 align="center">
@@ -13,11 +13,50 @@
 </p>
 
 <p align="center">
-  <a href="https://aescripts.com/authors/md-mahadi"><img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" /></a>
-  <a href="https://github.com/bytewhisker/large-file-finder"><img src="https://img.shields.io/badge/Desktop%20Utility-Large%20File%20Finder-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Large File Finder" /></a>
-  <a href="https://github.com/bytewhisker/zerog-motion"><img src="https://img.shields.io/badge/Open%20Source-ZeroG%20Motion-8957e5?style=for-the-badge&logo=npm&logoColor=white" alt="ZeroG Motion" /></a>
-  <a href="https://github.com/bytewhisker/freeflow"><img src="https://img.shields.io/badge/Production%20SaaS-FreeFlow-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="FreeFlow" /></a>
+  <a href="https://aescripts.com/authors/md-mahadi"><img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=flat-square&logo=adobe&logoColor=white" alt="aescripts Author" /></a>
+  <a href="https://github.com/bytewhisker/large-file-finder"><img src="https://img.shields.io/badge/Desktop%20Utility-Large%20File%20Finder-1f6feb?style=flat-square&logo=windows&logoColor=white" alt="Large File Finder" /></a>
+  <a href="https://github.com/bytewhisker/zerog-motion"><img src="https://img.shields.io/badge/Open%20Source-ZeroG%20Motion-8957e5?style=flat-square&logo=npm&logoColor=white" alt="ZeroG Motion" /></a>
+  <a href="https://github.com/bytewhisker/freeflow"><img src="https://img.shields.io/badge/Production%20SaaS-FreeFlow-2ea44f?style=flat-square&logo=react&logoColor=white" alt="FreeFlow" /></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Status-Shipping%20Production%20Tools-10B981?style=flat-square&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Active%20Month-October%202026%20⚡-06B6D4?style=flat-square" alt="Active Month" />
+  <img src="https://img.shields.io/badge/Latest%20Release-Large%20File%20Finder%20v1.0.0-8B5CF6?style=flat-square" alt="Latest Release" />
+</p>
+
+---
+
+### 📈 Career Trajectory & System Velocity (2014 — Present)
+
+<p align="center">
+  <img src="assets/growth-chart.svg" width="100%" alt="Career Growth Trajectory" />
+</p>
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>2014 — 2017</strong><br/>
+      <small>🌱 <strong>The Genesis Phase</strong></small><br/>
+      First lines of C++, ExtendScript, and system scripts. Experimentation with creative pipeline automations.
+    </td>
+    <td width="25%" valign="top">
+      <strong>2018 — 2020</strong><br/>
+      <small>⚙️ <strong>The Hard Grind</strong></small><br/>
+      High-stress deep pipeline engineering. Delivering confidential government software and surviving stack shifts.
+    </td>
+    <td width="25%" valign="top">
+      <strong>2021 — 2023</strong><br/>
+      <small>🚀 <strong>Commercial Breakout</strong></small><br/>
+      Founded Project Pro. Launched <strong>Counter Pro</strong> on aescripts.com, eliminating manual expressions and saving 80% time.
+    </td>
+    <td width="25%" valign="top">
+      <strong>2024 — 2026</strong><br/>
+      <small>⚡ <strong>Supercycle (ATH)</strong></small><br/>
+      Shipping <strong>FX Launcher Pro</strong>, <strong>ZeroG Motion</strong> (&lt;2.5KB WAAPI), <strong>Large File Finder</strong>, and <strong>FreeFlow</strong>.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -114,5 +153,5 @@ I am a **Software Engineer and Creative Systems Architect** with **11+ years of 
 * 💼 **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,161b22,1f6feb&height=70&section=footer" width="100%" />
+  <img src="assets/banner.svg" width="100%" height="30" style="opacity: 0.2;" />
 </p>

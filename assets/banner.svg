@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="280">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#070A12" />
+    </linearGradient>
+
+    <!-- Neon Glow Gradient for Brand Text -->
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <!-- Accent Pill Gradient -->
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#334155" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Glowing Wave Gradient -->
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Radial Ambient Glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .brand-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 58px;
+      letter-spacing: 12px;
+      fill: url(#brandGradient);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 500;
+      font-size: 18px;
+      letter-spacing: 3px;
+      fill: #94A3B8;
+    }
+    .tagline-pill {
+      font-family: 'SF Mono', Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #38BDF8;
+      letter-spacing: 2px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #E2E8F0;
+    }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="280" rx="16" fill="url(#bgGradient)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Ambient Light Center -->
+  <circle cx="600" cy="120" r="450" fill="url(#ambientGlow)" />
+
+  <!-- Technical Grid Pattern Lines -->
+  <g stroke="#1E293B" stroke-width="0.75" stroke-dasharray="4 6" opacity="0.4">
+    <line x1="100" y1="0" x2="100" y2="280" />
+    <line x1="300" y1="0" x2="300" y2="280" />
+    <line x1="600" y1="0" x2="600" y2="280" />
+    <line x1="900" y1="0" x2="900" y2="280" />
+    <line x1="1100" y1="0" x2="1100" y2="280" />
+    <line x1="0" y1="70" x2="1200" y2="70" />
+    <line x1="0" y1="140" x2="1200" y2="140" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+  </g>
+
+  <!-- Bottom Organic Cyber Waves -->
+  <path d="M0,230 Q300,195 600,225 T1200,205 L1200,280 L0,280 Z" fill="url(#waveGrad)" />
+  <path d="M0,245 Q400,215 800,250 T1200,230 L1200,280 L0,280 Z" fill="#0284C7" fill-opacity="0.12" />
+
+  <!-- Top Pill: Years in Production -->
+  <g transform="translate(600, 48)">
+    <rect x="-185" y="-14" width="370" height="28" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="-165" cy="0" r="4" fill="#38BDF8" />
+    <text text-anchor="middle" y="4" class="tagline-pill">11+ YEARS IN PRODUCTION • 2014 ➔ 2026</text>
+  </g>
+
+  <!-- Center Master Title -->
+  <text x="600" y="128" text-anchor="middle" class="brand-title">BYTEWHISKER</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="165" text-anchor="middle" class="subtitle">CREATIVE TOOLS ARCHITECT • SYSTEMS &amp; SAAS ENGINEER</text>
+
+  <!-- Highlight Feature Pills (Bottom Row) -->
+  <g transform="translate(600, 205)">
+    <!-- Pill 1: aescripts.com Author -->
+    <g transform="translate(-390, 0)">
+      <rect x="0" y="-12" width="180" height="26" rx="13" fill="url(#pillGrad)" stroke="#E11D48" stroke-width="1" stroke-opacity="0.5" />
+      <circle cx="16" cy="1" r="3.5" fill="#E11D48" />
+      <text x="100" y="5" text-anchor="middle" class="badge-text">aescripts.com Author</text>
+    </g>
+
+    <!-- Pill 2: Adobe CC Plugins -->
+    <g transform="translate(-185, 0)">
+      <rect x="0" y="-12" width="170" height="26" rx="13" fill="url(#pillGrad)" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.5" />
+      <circle cx="16" cy="1" r="3.5" fill="#38BDF8" />
+      <text x="95" y="5" text-anchor="middle" class="badge-text">Adobe CC Plugins</text>
+    </g>
+
+    <!-- Pill 3: Zero-Bloat Systems -->
+    <g transform="translate(10, 0)">
+      <rect x="0" y="-12" width="170" height="26" rx="13" fill="url(#pillGrad)" stroke="#818CF8" stroke-width="1" stroke-opacity="0.5" />
+      <circle cx="16" cy="1" r="3.5" fill="#818CF8" />
+      <text x="95" y="5" text-anchor="middle" class="badge-text">Zero-Bloat Systems</text>
+    </g>
+
+    <!-- Pill 4: Full-Stack SaaS -->
+    <g transform="translate(205, 0)">
+      <rect x="0" y="-12" width="170" height="26" rx="13" fill="url(#pillGrad)" stroke="#34D399" stroke-width="1" stroke-opacity="0.5" />
+      <circle cx="16" cy="1" r="3.5" fill="#34D399" />
+      <text x="95" y="5" text-anchor="middle" class="badge-text">Full-Stack SaaS</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%" height="360">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="chartBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+
+    <!-- Neon Bull Trend Gradient -->
+    <linearGradient id="trendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="40%" stop-color="#06B6D4" />
+      <stop offset="75%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+
+    <!-- Area Fill Under Curve -->
+    <linearGradient id="areaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#06B6D4" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#080C14" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .chart-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #F1F5F9;
+    }
+    .chart-subtitle {
+      font-family: 'SF Mono', Monaco, Consolas, monospace;
+      font-size: 11px;
+      fill: #10B981;
+      letter-spacing: 1px;
+    }
+    .year-label {
+      font-family: 'SF Mono', Monaco, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #64748B;
+    }
+    .milestone-year {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #38BDF8;
+    }
+    .milestone-desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 10px;
+      fill: #94A3B8;
+    }
+    .live-badge {
+      font-family: 'SF Mono', Monaco, Consolas, monospace;
+      font-size: 10px;
+      font-weight: 700;
+      fill: #10B981;
+    }
+  </style>
+
+  <!-- Frame Background -->
+  <rect width="1000" height="360" rx="14" fill="url(#chartBg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Top Status Bar -->
+  <g transform="translate(30, 32)">
+    <circle cx="6" cy="6" r="4" fill="#10B981" />
+    <text x="20" y="10" class="chart-title">BYTEWHISKER // CAREER RUN &amp; PRODUCT VELOCITY</text>
+    <text x="560" y="10" class="chart-subtitle">MARKET CYCLE: 2014 — 2026 [OCTOBER 2026: ALL-TIME HIGH 🚀]</text>
+  </g>
+
+  <!-- Technical Grid Lines (Horizontal) -->
+  <g stroke="#1E293B" stroke-width="0.8" stroke-dasharray="3 5" opacity="0.6">
+    <line x1="60" y1="80" x2="940" y2="80" />
+    <line x1="60" y1="130" x2="940" y2="130" />
+    <line x1="60" y1="180" x2="940" y2="180" />
+    <line x1="60" y1="230" x2="940" y2="230" />
+    <line x1="60" y1="280" x2="940" y2="280" />
+  </g>
+
+  <!-- Curve Area Fill -->
+  <path d="M 80,270 
+           C 160,265 190,230 240,210 
+           C 290,190 320,240 380,230 
+           C 430,220 480,180 540,160 
+           C 600,140 640,110 700,105 
+           C 760,100 800,135 840,120 
+           C 880,105 910,75 940,65 
+           L 940,280 L 80,280 Z" 
+        fill="url(#areaGradient)" />
+
+  <!-- Glowing Trend Line -->
+  <path d="M 80,270 
+           C 160,265 190,230 240,210 
+           C 290,190 320,240 380,230 
+           C 430,220 480,180 540,160 
+           C 600,140 640,110 700,105 
+           C 760,100 800,135 840,120 
+           C 880,105 910,75 940,65" 
+        fill="none" stroke="url(#trendGradient)" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- X-Axis Years -->
+  <g transform="translate(0, 305)">
+    <text x="80" y="0" text-anchor="middle" class="year-label">2014</text>
+    <text x="240" y="0" text-anchor="middle" class="year-label">2016-17</text>
+    <text x="380" y="0" text-anchor="middle" class="year-label">2018-19</text>
+    <text x="540" y="0" text-anchor="middle" class="year-label">2020-21</text>
+    <text x="700" y="0" text-anchor="middle" class="year-label">2022-23</text>
+    <text x="840" y="0" text-anchor="middle" class="year-label">2024-25</text>
+    <text x="940" y="0" text-anchor="middle" class="year-label" fill="#10B981" font-weight="800">OCT 2026</text>
+  </g>
+
+  <!-- Point 1: 2014 Genesis -->
+  <circle cx="80" cy="270" r="4.5" fill="#10B981" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(80, 240)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year">GENESIS</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">First C++ / Scripts</text>
+  </g>
+
+  <!-- Point 2: 2016-17 Mini Bull -->
+  <circle cx="240" cy="210" r="4.5" fill="#38BDF8" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(240, 185)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year">PIPELINE BUILD</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">3D &amp; VFX Tools</text>
+  </g>
+
+  <!-- Point 3: 2018-19 The Grind Dip -->
+  <circle cx="380" cy="230" r="4" fill="#64748B" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(380, 255)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year" fill="#94A3B8">THE BEAR GRIND</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">Government Systems</text>
+  </g>
+
+  <!-- Point 4: 2020-21 Fullstack Pivot -->
+  <circle cx="540" cy="160" r="4.5" fill="#818CF8" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(540, 135)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year">FULLSTACK PIVOT</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">React, Node, Python</text>
+  </g>
+
+  <!-- Point 5: 2022-23 aescripts Breakout -->
+  <circle cx="700" cy="105" r="5" fill="#C084FC" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(700, 80)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year" fill="#C084FC">COMMERCIAL ATH</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">Counter Pro (-80% Time)</text>
+  </g>
+
+  <!-- Point 6: 2024-25 Scaling -->
+  <circle cx="840" cy="120" r="4.5" fill="#38BDF8" stroke="#080C14" stroke-width="2" />
+  <g transform="translate(840, 95)">
+    <text x="0" y="0" text-anchor="middle" class="milestone-year">SYSTEM SCALE</text>
+    <text x="0" y="12" text-anchor="middle" class="milestone-desc">FX Launcher Pro</text>
+  </g>
+
+  <!-- Point 7: OCT 2026 ALL-TIME HIGH (LIVE) -->
+  <circle cx="940" cy="65" r="7" fill="#10B981" stroke="#34D399" stroke-width="2" />
+  <circle cx="940" cy="65" r="14" fill="#10B981" fill-opacity="0.25" />
+  <g transform="translate(930, 40)">
+    <rect x="-115" y="-12" width="130" height="22" rx="6" fill="#064E3B" stroke="#10B981" stroke-width="1" />
+    <circle cx="-105" cy="-1" r="3" fill="#34D399" />
+    <text x="-50" y="3" text-anchor="middle" class="live-badge">OCT 2026: ACTIVE</text>
+  </g>
+</svg>
