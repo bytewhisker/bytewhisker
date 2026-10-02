@@ -4,12 +4,12 @@
 
 <h3 align="center">
   <a href="https://github.com/bytewhisker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Verified+Author+on+aescripts.com;Creator+of+FX+Launcher+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard;Author+of+ZeroG+Motion+(%3C2.5KB+WAAPI);Author+of+Large+File+Finder+Utility;Building+High-Speed+Desktop+Tools+%26+SaaS" alt="Typing Showcase" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=11%2B+Years+Engineering+Software+%26+Tools;Creator+of+Counter+Pro+(Saves+80%25+Time);Creator+of+FX+Launcher+Pro+for+Premiere;Author+of+ZeroG+Motion+(%3C2.5KB+WAAPI);Author+of+Large+File+Finder+Utility;Founder+of+Project+Pro+Software+Studio;Verified+Commercial+Author+on+aescripts" alt="Typing Showcase" />
   </a>
 </h3>
 
 <p align="center">
-  <em>"Engineering lightning-fast Adobe extensions, zero-bloat desktop utilities, and resilient web architectures."</em>
+  <em>"11+ years engineering workflow-critical Adobe extensions, zero-bloat desktop utilities, and resilient web platforms."</em>
 </p>
 
 <p align="center">
@@ -23,11 +23,12 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Software Engineer and Creative Tools Architect** specializing in building high-performance extensions for the **Adobe Creative Cloud ecosystem**, native desktop utilities, and full-stack SaaS platforms.
+I am a **Software Engineer and Creative Systems Architect** with **11+ years of experience** developing specialized software, automation engines, and high-performance desktop and web applications.
 
-* 🎬 **Commercial Tooling:** Author of workflow-critical plugins on [aescripts.com](https://aescripts.com/authors/md-mahadi), used by video editors and motion designers globally.
+* 🎬 **Commercial Tooling & Impact:** Founder of **Project Pro**. Author of commercial software on [aescripts.com](https://aescripts.com/authors/md-mahadi), engineering plugins that **reduce manual production and animation time by up to 80%** for video editors and motion designers worldwide.
 * ⚡ **Engineering Principles:** Ruthless performance, minimal memory footprints, zero-dependency architectures, and native platform capabilities over bloated abstractions.
-* 🛠️ **Systems Mastery:** Deep expertise in Adobe CEP, ExtendScript, UXP, native web technologies (WAAPI), cross-platform desktop software, and scalable cloud applications.
+* 🛠️ **Systems Mastery:** Deep expertise in C++, Python, JavaScript/TypeScript, Adobe ExtendScript, CEP, and UXP, coupled with modern web runtimes (React, Next.js, Node.js) and native desktop software.
+* 🔒 **Enterprise & High-Trust Delivery:** Proven background developing confidential software for enterprise and government clients with strict reliability and security requirements.
 
 ---
 
@@ -37,8 +38,8 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 
 | Product | Platform | Core Architecture & Highlights |
 | :--- | :--- | :--- |
-| **[FX Launcher Pro](https://aescripts.com/authors/md-mahadi)** | **Premiere Pro** | High-speed, keyboard-first command palette and spotlight search. Enables editors to apply effects, presets, and transitions instantly with fuzzy matching, bypassing sluggish UI panels. |
-| **[Counter Pro 2](https://aescripts.com/authors/md-mahadi)** | **After Effects** | Advanced dynamic number counter and data animation engine. Handles complex numeric formatting, currency conversions, decimal controls, and easing curves natively. |
+| **[Counter Pro](https://aescripts.com/counter-pro)** | **After Effects** | High-performance dynamic numeric and data animation engine. Replaces tedious manual expressions, saving **up to 80% of production time**. Features a custom localization subsystem for multi-language numeric generation. |
+| **[FX Launcher Pro](https://aescripts.com/authors/md-mahadi)** | **Premiere Pro** | Keyboard-first command palette and spotlight search. Enables editors to apply effects, presets, and transitions instantly with fuzzy matching, bypassing sluggish UI panels. |
 | **[Render Guard](https://aescripts.com/authors/md-mahadi)** | **After Effects** | Automated background render monitor. Provides intelligent post-render system management (sleep, hibernation, auto-shutdown), stall detection, and error mitigation for long export queues. |
 
 ---
@@ -46,7 +47,7 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 #### 2. 🖥️ Desktop Utilities & Open Source Systems
 
 * **[Large File Finder](https://github.com/bytewhisker/large-file-finder)**  
-  High-speed storage analysis software engineered to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
+  High-speed storage analysis software engineered in Python to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
 * **[ZeroG Motion](https://github.com/bytewhisker/zerog-motion)**  
   Weightless physics-based animation library for modern web interfaces. **< 2.5KB gzipped**, powered by the native Web Animations API (WAAPI), with **zero external dependencies**. Engineered specifically for ultra-fast frontends and lean runtimes.
 
@@ -61,31 +62,37 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 
 ---
 
-### 🧰 Technical Arsenal
+### 🧰 Technical Arsenal (Direct from 11+ Years in Production)
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>Creative SDKs & Desktop</strong></td>
+    <td width="25%" valign="top"><strong>Core Languages</strong></td>
     <td>
-      <code>Adobe CEP</code> &middot; <code>ExtendScript</code> &middot; <code>UXP</code> &middot; <code>Electron</code> &middot; <code>C++</code> &middot; <code>WAAPI</code> &middot; <code>Desktop OS APIs</code>
+      <code>C++</code> &middot; <code>Python</code> &middot; <code>TypeScript</code> &middot; <code>JavaScript (ES6+)</code> &middot; <code>Adobe ExtendScript</code> &middot; <code>HTML5 / Modern CSS3</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Full-Stack & Languages</strong></td>
+    <td valign="top"><strong>Creative SDKs & Systems</strong></td>
     <td>
-      <code>TypeScript</code> &middot; <code>JavaScript (ESNext)</code> &middot; <code>Python</code> &middot; <code>Node.js</code> &middot; <code>React</code> &middot; <code>Next.js</code> &middot; <code>FastAPI</code> &middot; <code>Express</code>
+      <code>Adobe CEP</code> &middot; <code>UXP</code> &middot; <code>Web Animations API (WAAPI)</code> &middot; <code>Tkinter</code> &middot; <code>Electron</code> &middot; <code>Desktop OS APIs</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Styling & Frontend Systems</strong></td>
+    <td valign="top"><strong>Full-Stack & Web</strong></td>
     <td>
-      <code>Tailwind CSS</code> &middot; <code>Modern CSS3</code> &middot; <code>Native Web Components</code> &middot; <code>SVG Graphics</code>
+      <code>React</code> &middot; <code>Next.js</code> &middot; <code>Node.js</code> &middot; <code>FastAPI</code> &middot; <code>Express</code> &middot; <code>Tailwind CSS</code> &middot; <code>WordPress</code>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Data & Infrastructure</strong></td>
     <td>
-      <code>PostgreSQL</code> &middot; <code>MongoDB</code> &middot; <code>Redis</code> &middot; <code>Docker</code> &middot; <code>Git</code> &middot; <code>Linux Shell</code>
+      <code>PostgreSQL</code> &middot; <code>MongoDB</code> &middot; <code>Redis</code> &middot; <code>Docker</code> &middot; <code>Git / GitHub</code> &middot; <code>Linux Shell</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>UI / UX Design</strong></td>
+    <td>
+      <code>Figma</code> &middot; <code>Design Systems</code> &middot; <code>Responsive Interface Architecture</code>
     </td>
   </tr>
 </table>
@@ -107,5 +114,5 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 * 💼 **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=40&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,161b22,1f6feb&height=70&section=footer" width="100%" />
 </p>
