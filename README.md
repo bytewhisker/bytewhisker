@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=200&section=header&text=MD%20MAHADI&fontSize=44&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Adobe%20Plugin%20Architect%20%E2%80%A2%20SaaS%20Builder&descSize=16&descAlignY=66" width="100%" alt="Md Mahadi Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=200&section=header&text=BYTEWHISKER&fontSize=44&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Adobe%20Plugin%20Architect%20%E2%80%A2%20SaaS%20Builder&descSize=16&descAlignY=66" width="100%" alt="ByteWhisker Header" />
 </p>
 
 <h3 align="center">
-  <a href="https://aescripts.com/authors/md-mahadi">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Verified+Author+on+aescripts.com;Creator+of+FX+Launcher+Pro+for+Adobe+Premiere+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard+for+After+Effects;Author+of+ZeroG+Motion+(%3C2.5KB+Native+WAAPI+Physics);Architecting+High-Performance+Desktop+Software+%26+SaaS" alt="Typing Showcase" />
+  <a href="https://github.com/bytewhisker">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Creator+of+FX+Launcher+Pro+for+Adobe+Premiere+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard+for+After+Effects;Author+of+ZeroG+Motion+(%3C2.5KB+Native+WAAPI+Physics);Author+of+Large+File+Finder+Desktop+Utility;Architecting+High-Performance+Desktop+Software+%26+SaaS" alt="Typing Showcase" />
   </a>
 </h3>
 
 <p align="center">
   <a href="https://aescripts.com/authors/md-mahadi">
-    <img src="https://img.shields.io/badge/aescripts.com-Verified%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" />
+    <img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" />
   </a>
   <img src="https://img.shields.io/badge/Creative%20SDK-CEP%20%7C%20ExtendScript%20%7C%20UXP-blue?style=for-the-badge&logo=adobe" alt="Creative SDK" />
   <img src="https://img.shields.io/badge/Full--Stack-Node%20%7C%20Next.js%20%7C%20Python-2ea44f?style=for-the-badge" alt="Full Stack" />
@@ -23,7 +23,7 @@
 
 I am a **Software Engineer and Creative Tools Architect** specializing in building high-performance extensions for the **Adobe Creative Cloud ecosystem**, native desktop utilities, and full-stack SaaS platforms.
 
-* 🎬 **Commercial Tooling:** Author on [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi), delivering workflow-critical plugins used by video editors and motion designers globally.
+* 🎬 **Commercial Tooling:** Author of workflow-critical plugins on [aescripts.com](https://aescripts.com/authors/md-mahadi), used by video editors and motion designers globally.
 * ⚡ **Engineering Principles:** Ruthless performance, minimal memory footprints, zero-dependency architectures, and native platform capabilities over bloated abstractions.
 * 🛠️ **Systems Mastery:** Deep expertise in Adobe CEP, ExtendScript, UXP, native web technologies (WAAPI), cross-platform desktop software, and scalable cloud applications.
 
@@ -43,7 +43,7 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 
 #### 2. 🖥️ Desktop Utilities & Open Source Systems
 
-* **[Large File Finder](https://github.com/bytewhisker)**  
+* **[Large File Finder](https://github.com/bytewhisker/large-file-finder)**  
   High-speed storage analysis software engineered to scan deep filesystem trees, isolate storage-hogging media caches, and liberate disk space with minimal memory overhead.
 * **[ZeroG Motion](https://github.com/bytewhisker/zerog-motion)**  
   Weightless physics-based animation library for modern web interfaces. **< 2.5KB gzipped**, powered by the native Web Animations API (WAAPI), with **zero external dependencies**. Engineered specifically for ultra-fast frontends and lean runtimes.
@@ -103,7 +103,6 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 
 * 🛒 **Store Catalog:** [aescripts.com/authors/md-mahadi](https://aescripts.com/authors/md-mahadi)
 * 💼 **GitHub:** [@bytewhisker](https://github.com/bytewhisker)
-* ✉️ **Direct Email:** [officialmdmahadi@gmail.com](mailto:officialmdmahadi@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=40&section=footer" width="100%" />
