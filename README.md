@@ -52,7 +52,7 @@ I am a **Software Engineer and Creative Tools Architect** specializing in buildi
 
 #### 3. ☁️ SaaS Platforms & Enterprise Solutions
 
-* **[KMG SaaS / FreeFlow](https://github.com/bytewhisker/kmgsaas)**  
+* **[FreeFlow](https://github.com/bytewhisker/freeflow)**  
   A modern, modular CRM and business operations engine designed for agencies and freelancers. Features pipeline tracking, team collaboration, automated invoice generation, and client portals.
 * **High-Throughput Content Engines**  
   Scalable text transformation tools and AI-assisted workflow pipelines focusing on low-latency inference, prompt optimization, and clean data processing.
