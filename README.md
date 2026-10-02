@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=200&section=header&text=BYTEWHISKER&fontSize=44&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Adobe%20Plugin%20Architect%20%E2%80%A2%20SaaS%20Builder&descSize=16&descAlignY=66" width="100%" alt="ByteWhisker Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,161b22,1f6feb,58a6ff&height=220&section=header&text=BYTEWHISKER&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Creative%20Tools%20Architect%20%E2%80%A2%20Systems%20%26%20SaaS%20Engineer&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="ByteWhisker Header" />
 </p>
 
 <h3 align="center">
   <a href="https://github.com/bytewhisker">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Creator+of+FX+Launcher+Pro+for+Adobe+Premiere+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard+for+After+Effects;Author+of+ZeroG+Motion+(%3C2.5KB+Native+WAAPI+Physics);Author+of+Large+File+Finder+Desktop+Utility;Architecting+High-Performance+Desktop+Software+%26+SaaS" alt="Typing Showcase" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Verified+Author+on+aescripts.com;Creator+of+FX+Launcher+Pro;Creator+of+Counter+Pro+2+%26+Render+Guard;Author+of+ZeroG+Motion+(%3C2.5KB+WAAPI);Author+of+Large+File+Finder+Utility;Building+High-Speed+Desktop+Tools+%26+SaaS" alt="Typing Showcase" />
   </a>
 </h3>
 
 <p align="center">
-  <a href="https://aescripts.com/authors/md-mahadi">
-    <img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" />
-  </a>
-  <img src="https://img.shields.io/badge/Creative%20SDK-CEP%20%7C%20ExtendScript%20%7C%20UXP-blue?style=for-the-badge&logo=adobe" alt="Creative SDK" />
-  <img src="https://img.shields.io/badge/Full--Stack-Node%20%7C%20Next.js%20%7C%20Python-2ea44f?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Focus-High%20Performance%20%26%20Zero%20Bloat-purple?style=for-the-badge" alt="Focus" />
+  <em>"Engineering lightning-fast Adobe extensions, zero-bloat desktop utilities, and resilient web architectures."</em>
+</p>
+
+<p align="center">
+  <a href="https://aescripts.com/authors/md-mahadi"><img src="https://img.shields.io/badge/aescripts.com-Commercial%20Author-ff0055?style=for-the-badge&logo=adobe&logoColor=white" alt="aescripts Author" /></a>
+  <a href="https://github.com/bytewhisker/large-file-finder"><img src="https://img.shields.io/badge/Desktop%20Utility-Large%20File%20Finder-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Large File Finder" /></a>
+  <a href="https://github.com/bytewhisker/zerog-motion"><img src="https://img.shields.io/badge/Open%20Source-ZeroG%20Motion-8957e5?style=for-the-badge&logo=npm&logoColor=white" alt="ZeroG Motion" /></a>
+  <a href="https://github.com/bytewhisker/freeflow"><img src="https://img.shields.io/badge/Production%20SaaS-FreeFlow-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="FreeFlow" /></a>
 </p>
 
 ---
